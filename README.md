@@ -1,2 +1,1 @@
-# TaskBoard
-CSS Grid, Codecademy
+# taskBoard
